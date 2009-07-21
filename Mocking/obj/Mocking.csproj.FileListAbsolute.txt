@@ -1,0 +1,9 @@
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\bin\Debug\Mocking.dll
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\bin\Debug\Mocking.pdb
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\bin\Debug\Rhino.Mocks.dll
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\bin\Debug\Rhino.Mocks.xml
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\obj\Debug\Mocking.dll
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\Mocking\Mocking\obj\Debug\Mocking.pdb
